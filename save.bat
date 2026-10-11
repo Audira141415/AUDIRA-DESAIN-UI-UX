@@ -36,22 +36,16 @@ if errorlevel 1 (
     git remote set-url origin %REPO_URL%
 )
 
-REM 4. Tetapkan branch utama ke 'main'
+REM 4. Tetapkan branch utama ke main
 git branch -M main
 
 REM 5. Tentukan Pesan Commit
 set "COMMIT_MSG=%*"
-
 if "%~1"=="" (
-    echo Masukkan pesan commit opsional (atau tekan ENTER untuk default):
-    set /p "USER_INPUT=> "
-    if "!USER_INPUT!"=="" (
-        set "COMMIT_MSG=feat(audira): update and sync AUDIRA Desain UI/UX"
-    ) else (
-        set "COMMIT_MSG=!USER_INPUT!"
-    )
+    set "COMMIT_MSG=feat(audira): auto update and sync AUDIRA Desain UI/UX"
 )
 
+echo [INFO] Pesan commit: "!COMMIT_MSG!"
 echo.
 echo [1/3] Menambahkan file ke Git staging...
 git add .
