@@ -682,7 +682,8 @@ Seluruh nama produk, kode sumber, desain, dan kekayaan intelektual terkait tundu
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Kode sumber (*source code*) proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Nama merek **AUDIRA**, logo, dan domain produksi resmi ([https://audira.my.id](https://audira.my.id)) tetap merupakan hak merek dagang eksklusif milik Agus Dwi Rianto / Audira Multimedia Digital.
 
 ## Agent yang Kompatibel
 
