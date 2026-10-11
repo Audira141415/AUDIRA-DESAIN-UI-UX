@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📧 Official Support & Inquiries"
+    url: "mailto:agusdwirianto@gmail.com"
+    about: "For business partnerships, general questions, and support."
+  - name: "💬 WhatsApp Hotline"
+    url: "https://wa.me/6282112001600"
+    about: "Direct chat with AUDIRA support via WhatsApp."
+  - name: "🔐 Security & Vulnerability Reporting"
+    url: "mailto:agusdwirianto@gmail.com?subject=[SECURITY]%20AUDIRA%20Desain%20UI/UX"
+    about: "Report security vulnerabilities responsibly."
