@@ -1,45 +1,37 @@
-# [UI UX Pro Max](https://uupm.cc)
+# [AUDIRA - UI UX Pro Max](https://audira.my.id)
 
 <p align="center">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.id.md">🇮🇩 Bahasa Indonesia</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.ko.md">🇰🇷 한국어</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.vi.md">🇻🇳 Tiếng Việt</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.zh.md">🇨🇳 简体中文</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md">🇺🇸 English</a>
+  <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> |
+  <a href="README.ko.md">🇰🇷 한국어</a> |
+  <a href="README.vi.md">🇻🇳 Tiếng Việt</a> |
+  <a href="README.zh.md">🇨🇳 简体中文</a> |
+  <a href="README.md">🇺🇸 English</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases"><img src="https://img.shields.io/github/v/release/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=blue" alt="Bản phát hành GitHub"></a>
+  <img src="https://img.shields.io/badge/brand-AUDIRA-blue?style=for-the-badge" alt="AUDIRA">
   <img src="https://img.shields.io/badge/reasoning_rules-192-green?style=for-the-badge" alt="192 quy tắc suy luận">
   <img src="https://img.shields.io/badge/UI_styles-79_searchable-purple?style=for-the-badge" alt="79 phong cách UI có thể tìm kiếm">
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=green" alt="Giấy phép"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="Giấy phép"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/ui-ux-pro-max-cli"><img src="https://img.shields.io/npm/v/ui-ux-pro-max-cli?style=flat-square&logo=npm&label=CLI" alt="npm"></a>
-  <a href="https://www.npmjs.com/package/ui-ux-pro-max-cli"><img src="https://img.shields.io/npm/dm/ui-ux-pro-max-cli?style=flat-square&label=downloads" alt="Lượt tải npm"></a>
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/stargazers"><img src="https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square&logo=github" alt="Lượt sao GitHub"></a>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Support%20Development-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Hỗ trợ qua PayPal"></a>
-</p>
-
-Một kỹ năng AI cung cấp tri thức thiết kế để xây dựng UI/UX chuyên nghiệp trên nhiều nền tảng và framework.
+Một kỹ năng AI cung cấp tri thức thiết kế để xây dựng UI/UX chuyên nghiệp trên nhiều nền tảng và framework trong hệ sinh thái AUDIRA.
 
 <p align="center">
-  <a href="https://uupm.cc">
-    <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
+  <a href="https://audira.my.id">
+    <img src="screenshots/website.png" alt="AUDIRA UI UX Pro Max" width="800">
   </a>
 </p>
 
 <p align="center">
-  <b>Nếu dự án hữu ích với bạn, hãy cân nhắc ủng hộ:</b><br><br>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Ủng hộ qua PayPal"></a>
+  <b>Kênh chính thức AUDIRA:</b><br><br>
+  <a href="https://audira.my.id">🌐 Website chính thức (audira.my.id)</a> | 
+  <a href="https://wa.me/6282112001600">💬 Hotline WhatsApp (+62 821-1200-1600)</a> | 
+  <a href="mailto:agusdwirianto@gmail.com">📧 Email chính thức</a>
 </p>
 
-<p align="center">
-  <i>Các dự án khác</i><br>
-  <a href="https://nextlevelbuilder.io">NextLevelBuilder.io</a> | <a href="https://goclaw.sh">GoClaw.sh</a> | <a href="https://claudekit.cc">ClaudeKit.cc</a> | <a href="https://tose.sh">TOSE.sh</a>
-</p>
+---
 
 ## Có gì mới trong v2.0
 

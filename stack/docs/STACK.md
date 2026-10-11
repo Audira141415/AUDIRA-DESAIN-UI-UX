@@ -17,7 +17,7 @@ pairings, 119 UX guidelines, 25 chart types, a Core Web Vitals dataset, and 22 t
 plus a design-system generator that turns a product brief into concrete tokens. It's the
 answer to "what should this actually look like, and what are the anti-patterns?"
 
-- Repo: <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill> · License: MIT
+- Repo: <https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX> · License: MIT
 - Install: `npx ui-ux-pro-max-cli init --ai claude`
 - Use: `python3 <skill>/scripts/search.py "<brief>" --design-system` and `--domain <domain>`
 

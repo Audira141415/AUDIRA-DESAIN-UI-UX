@@ -42,12 +42,14 @@ git branch -M main
 REM 5. Tentukan Pesan Commit
 set "COMMIT_MSG=%*"
 
-if "!COMMIT_MSG!"=="" (
-    set /p "COMMIT_MSG=Masukkan pesan commit (Tekan ENTER untuk pesan default): "
-)
-
-if "!COMMIT_MSG!"=="" (
-    set "COMMIT_MSG=feat: update and sync AUDIRA Desain UI/UX"
+if "%~1"=="" (
+    echo Masukkan pesan commit opsional (atau tekan ENTER untuk default):
+    set /p "USER_INPUT=> "
+    if "!USER_INPUT!"=="" (
+        set "COMMIT_MSG=feat(audira): update and sync AUDIRA Desain UI/UX"
+    ) else (
+        set "COMMIT_MSG=!USER_INPUT!"
+    )
 )
 
 echo.

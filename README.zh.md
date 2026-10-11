@@ -1,45 +1,37 @@
-# [UI UX Pro Max](https://uupm.cc)
+# [AUDIRA - UI UX Pro Max](https://audira.my.id)
 
 <p align="center">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.id.md">🇮🇩 Bahasa Indonesia</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.ko.md">🇰🇷 한국어</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.vi.md">🇻🇳 Tiếng Việt</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.zh.md">🇨🇳 简体中文</a> |
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md">🇺🇸 English</a>
+  <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> |
+  <a href="README.ko.md">🇰🇷 한국어</a> |
+  <a href="README.vi.md">🇻🇳 Tiếng Việt</a> |
+  <a href="README.zh.md">🇨🇳 简体中文</a> |
+  <a href="README.md">🇺🇸 English</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases"><img src="https://img.shields.io/github/v/release/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=blue" alt="GitHub Release"></a>
+  <img src="https://img.shields.io/badge/brand-AUDIRA-blue?style=for-the-badge" alt="AUDIRA">
   <img src="https://img.shields.io/badge/reasoning_rules-192-green?style=for-the-badge" alt="192 条推理规则">
   <img src="https://img.shields.io/badge/UI_styles-79_searchable-purple?style=for-the-badge" alt="79 种可搜索 UI 风格">
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x">
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=green" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/ui-ux-pro-max-cli"><img src="https://img.shields.io/npm/v/ui-ux-pro-max-cli?style=flat-square&logo=npm&label=CLI" alt="npm"></a>
-  <a href="https://www.npmjs.com/package/ui-ux-pro-max-cli"><img src="https://img.shields.io/npm/dm/ui-ux-pro-max-cli?style=flat-square&label=downloads" alt="npm downloads"></a>
-  <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/stargazers"><img src="https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square&logo=github" alt="GitHub stars"></a>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-支持开发-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"></a>
-</p>
-
-一个为跨多平台和框架构建专业 UI/UX 提供设计智能的 AI 技能。
+一个为跨多平台和框架构建专业 UI/UX 提供设计智能的 AI 技能（AUDIRA 生态系统）。
 
 <p align="center">
-  <a href="https://uupm.cc">
-    <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
+  <a href="https://audira.my.id">
+    <img src="screenshots/website.png" alt="AUDIRA UI UX Pro Max" width="800">
   </a>
 </p>
 
 <p align="center">
-  <b>如果这个项目对你有帮助，请考虑支持：</b><br><br>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-捐赠-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal 捐赠"></a>
+  <b>AUDIRA 官方渠道:</b><br><br>
+  <a href="https://audira.my.id">🌐 官方网站 (audira.my.id)</a> | 
+  <a href="https://wa.me/6282112001600">💬 WhatsApp 热线 (+62 821-1200-1600)</a> | 
+  <a href="mailto:agusdwirianto@gmail.com">📧 官方邮箱</a>
 </p>
 
-<p align="center">
-  <i>其他项目</i><br>
-  <a href="https://nextlevelbuilder.io">NextLevelBuilder.io</a> | <a href="https://goclaw.sh">GoClaw.sh</a> | <a href="https://claudekit.cc">ClaudeKit.cc</a> | <a href="https://tose.sh">TOSE.sh</a>
-</p>
+---
 
 ## v2.0 新特性
 

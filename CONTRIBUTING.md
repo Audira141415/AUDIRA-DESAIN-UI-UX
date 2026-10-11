@@ -31,11 +31,11 @@ This guide will help you get started quickly.
 
 ```bash
 # 1. Fork the repo on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/ui-ux-pro-max-skill.git
-cd ui-ux-pro-max-skill
+git clone https://github.com/YOUR_USERNAME/AUDIRA-DESAIN-UI-UX.git
+cd AUDIRA-DESAIN-UI-UX
 
 # 2. Add the upstream remote
-git remote add upstream https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+git remote add upstream https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX.git
 
 # 3. Install CLI dependencies
 cd cli && npm install && cd ..

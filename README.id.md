@@ -19,20 +19,19 @@
 Skill AI yang menyediakan kecerdasan desain untuk membangun UI/UX profesional di berbagai platform dan framework dalam ekosistem AUDIRA.
 
 <p align="center">
-  <a href="https://uupm.cc">
-    <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
+  <a href="https://audira.my.id">
+    <img src="screenshots/website.png" alt="AUDIRA Desain UI UX Pro Max" width="800">
   </a>
 </p>
 
 <p align="center">
-  <b>Jika proyek ini bermanfaat bagi Anda, pertimbangkan untuk mendukungnya:</b><br><br>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donasi PayPal"></a>
+  <b>Ekosistem AUDIRA & Tautan Resmi:</b><br><br>
+  <a href="https://audira.my.id">🌐 Website Resmi (audira.my.id)</a> | 
+  <a href="https://wa.me/6282112001600">💬 WhatsApp Hotline (+62 821-1200-1600)</a> | 
+  <a href="mailto:agusdwirianto@gmail.com">📧 Email Resmi</a>
 </p>
 
-<p align="center">
-  <i>Proyek lainnya</i><br>
-  <a href="https://nextlevelbuilder.io">NextLevelBuilder.io</a> | <a href="https://goclaw.sh">GoClaw.sh</a> | <a href="https://claudekit.cc">ClaudeKit.cc</a> | <a href="https://tose.sh">TOSE.sh</a>
-</p>
+---
 
 ## Yang Baru di v2.0
 
@@ -210,17 +209,17 @@ Banyak pengguna bertanya mengenai perbedaan antara versi open-source dan premium
 * **Arsitektur Enterprise:** Arsitektur Design Token yang lebih komprehensif dan scalable untuk deployment tim skala besar.
 * **Priority Support:** Dukungan teknis khusus untuk tim dan profesional yang membutuhkan workflow desain lengkap tanpa gangguan.
 
-👉 *Untuk detail lebih lanjut tentang upgrade ke tier Premium, kunjungi [uupm.cc](https://uupm.cc).*
+👉 *Untuk detail lebih lanjut tentang ekosistem AUDIRA, kunjungi [https://audira.my.id](https://audira.my.id).*
 
 ## Instalasi
 
 ### Menggunakan Claude Marketplace (Claude Code)
 
-Instal langsung di Claude Code dengan dua perintah:
+Instal langsung di Claude Code dengan perintah:
 
 ```
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 ### Menggunakan CLI (Direkomendasikan)
@@ -447,8 +446,8 @@ Jika Anda ingin berkontribusi pada proyek ini:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
-cd ui-ux-pro-max-skill
+git clone https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX.git
+cd AUDIRA-DESAIN-UI-UX
 
 # 2. Understand the structure
 src/ui-ux-pro-max/           # Source of truth (data, scripts, templates)
@@ -597,8 +596,8 @@ Jangan upload ZIP repository GitHub secara penuh. Itu adalah checkout developmen
 Untuk Claude Code, instal melalui Marketplace:
 
 ```bash
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 Atau gunakan installer CLI:
@@ -643,7 +642,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "SaaS" --domain style --j
 
 ## Riwayat Star
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.dera.page/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Audira141415/AUDIRA-DESAIN-UI-UX&type=Date)](https://star-history.dera.page/#Audira141415/AUDIRA-DESAIN-UI-UX&Date)
 
 ---
 

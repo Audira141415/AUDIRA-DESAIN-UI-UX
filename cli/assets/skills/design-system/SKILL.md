@@ -4,7 +4,7 @@ description: Token architecture, component specifications, and slide generation.
 argument-hint: "[component or token]"
 license: MIT
 metadata:
-  author: claudekit
+  author: AUDIRA
   version: "1.0.0"
 ---
 
@@ -229,13 +229,13 @@ font-family: 'Space Grotesk';
 
 Working example with all features:
 ```
-assets/designs/slides/claudekit-pitch-251223.html
+assets/designs/slides/audira-pitch.html
 ```
 
 ### Command
 
 ```bash
-/slides:create "10-slide investor pitch for ClaudeKit Marketing"
+/slides:create "10-slide investor pitch for AUDIRA Ecosystem"
 ```
 
 ## Best Practices

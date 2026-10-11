@@ -668,83 +668,83 @@ def main():
         demo_slides = [
             {
                 'type': 'title',
-                'badge': 'Investor Deck 2024',
-                'title': 'ClaudeKit Marketing',
-                'subtitle': 'Your AI marketing team. Always on.',
-                'cta': 'Join Waitlist',
+                'badge': 'AUDIRA Ecosystem 2026',
+                'title': 'AUDIRA Design Intelligence',
+                'subtitle': 'Your AI Design & Automation Ecosystem.',
+                'cta': 'Get Started',
                 'secondary_cta': 'See Demo',
-                'company': 'ClaudeKit',
-                'date': 'December 2024'
+                'company': 'AUDIRA',
+                'date': '2026'
             },
             {
                 'type': 'problem',
-                'headline': 'Marketing teams are drowning',
-                'pain_1_title': 'Content Overload',
-                'pain_1_desc': 'Need to produce 10x content with same headcount',
-                'pain_2_title': 'Tool Fatigue',
-                'pain_2_desc': '15+ tools that don\'t talk to each other',
-                'pain_3_title': 'No Time to Think',
-                'pain_3_desc': 'Strategy suffers when execution consumes all hours',
-                'company': 'ClaudeKit',
+                'headline': 'Design teams face scaling bottlenecks',
+                'pain_1_title': 'Inconsistent Systems',
+                'pain_1_desc': 'Disjointed tokens and styles slowing down product sprints',
+                'pain_2_title': 'Tool Fragmentation',
+                'pain_2_desc': 'Multiple disconnected design libraries across frameworks',
+                'pain_3_title': 'Slow Prototyping',
+                'pain_3_desc': 'Manual design workflows eating up developer productivity',
+                'company': 'AUDIRA',
                 'page': '2'
             },
             {
                 'type': 'solution',
-                'headline': 'AI agents that actually get marketing',
-                'feature_1_title': 'Content Creation',
-                'feature_1_desc': 'Blog posts, social, email - all on brand, all on time',
-                'feature_2_title': 'Campaign Management',
-                'feature_2_desc': 'Multi-channel orchestration with one command',
-                'feature_3_title': 'Analytics & Insights',
-                'feature_3_desc': 'Real-time optimization without the spreadsheets',
-                'company': 'ClaudeKit',
+                'headline': 'AI design intelligence that delivers instant systems',
+                'feature_1_title': 'Tailored Systems',
+                'feature_1_desc': '79 styles, 192 palettes, and 22 technology stacks',
+                'feature_2_title': 'Seamless Integration',
+                'feature_2_desc': 'Works directly inside AI IDEs and autonomous agents',
+                'feature_3_title': 'Production Quality',
+                'feature_3_desc': 'Zero placeholders, WCAG accessible, and high-conversion UX',
+                'company': 'AUDIRA',
                 'page': '3'
             },
             {
                 'type': 'metrics',
                 'headline': 'Early traction speaks volumes',
                 'metrics': [
-                    {'value': '500+', 'label': 'Beta Users'},
-                    {'value': '85%', 'label': 'Weekly Active'},
+                    {'value': '1000+', 'label': 'Generated Systems'},
+                    {'value': '95%', 'label': 'Dev Satisfaction'},
                     {'value': '4.9', 'label': 'NPS Score'},
-                    {'value': '50hrs', 'label': 'Saved/Week'}
+                    {'value': '40hrs', 'label': 'Saved/Sprint'}
                 ],
-                'company': 'ClaudeKit',
+                'company': 'AUDIRA',
                 'page': '4'
             },
             {
                 'type': 'chart',
-                'badge': 'Revenue',
-                'headline': 'Growing month over month',
-                'chart_title': 'MRR Growth ($K)',
+                'badge': 'Performance',
+                'headline': 'Accelerating product velocity',
+                'chart_title': 'Adoption Growth',
                 'bars': [
-                    {'label': 'Sep', 'value': 20, 'display': '$5K'},
-                    {'label': 'Oct', 'value': 40, 'display': '$12K'},
-                    {'label': 'Nov', 'value': 70, 'display': '$28K'},
-                    {'label': 'Dec', 'value': 100, 'display': '$45K'}
+                    {'label': 'Q1', 'value': 25, 'display': '25%'},
+                    {'label': 'Q2', 'value': 50, 'display': '50%'},
+                    {'label': 'Q3', 'value': 80, 'display': '80%'},
+                    {'label': 'Q4', 'value': 100, 'display': '100%'}
                 ],
-                'company': 'ClaudeKit',
+                'company': 'AUDIRA',
                 'page': '5'
             },
             {
                 'type': 'testimonial',
-                'quote': 'ClaudeKit replaced 3 tools and 2 contractors. Our content output tripled while costs dropped 60%.',
-                'author': 'Sarah Chen',
-                'role': 'Head of Marketing, TechStartup',
-                'company': 'ClaudeKit',
+                'quote': 'AUDIRA UI/UX replaced fragmented tools and streamlined our design workflow completely.',
+                'author': 'Agus Dwi Rianto',
+                'role': 'Founder, AUDIRA Ecosystem',
+                'company': 'AUDIRA',
                 'page': '6'
             },
             {
                 'type': 'cta',
-                'headline': 'Ship campaigns while you sleep',
-                'subheadline': 'Early access available. Limited spots.',
-                'cta': 'Join the Waitlist',
-                'contact': 'hello@claudekit.ai',
-                'website': 'claudekit.ai'
+                'headline': 'Empower your AI agents with AUDIRA',
+                'subheadline': 'Explore the full AI design intelligence ecosystem.',
+                'cta': 'Visit audira.my.id',
+                'contact': 'agusdwirianto@gmail.com',
+                'website': 'audira.my.id'
             }
         ]
 
-        html = generate_deck(demo_slides, "ClaudeKit Marketing - Pitch Deck")
+        html = generate_deck(demo_slides, "AUDIRA Design Intelligence - Pitch Deck")
 
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
         output_path = OUTPUT_DIR / f"demo-pitch-{datetime.now().strftime('%y%m%d')}.html"

@@ -1,22 +1,28 @@
 {
-  "name": "ui-ux-pro-max-skill",
-  "id": "ui-ux-pro-max-skill",
+  "name": "audira-desain-ui-ux",
+  "id": "audira-desain-ui-ux",
   "owner": {
-    "name": "nextlevelbuilder"
+    "name": "Agus Dwi Rianto (AUDIRA)",
+    "email": "agusdwirianto@gmail.com",
+    "url": "https://audira.my.id"
   },
   "metadata": {
-    "description": "UI/UX design intelligence skill with 79 styles, 192 palettes, 74 font pairings, 25 charts, and 22 stack guidelines",
+    "description": "AUDIRA UI/UX design intelligence skill with 79 styles, 192 palettes, 74 font pairings, 25 charts, and 22 stack guidelines",
     "version": "2.13.0"
   },
   "plugins": [
     {
-      "name": "ui-ux-pro-max",
+      "name": "audira-ui-ux",
       "source": "./",
       "description": "Professional UI/UX design intelligence for AI coding assistants. Includes searchable databases of styles, colors, typography, charts, and UX guidelines for React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, JavaFX, and Three.js.",
       "version": "2.13.0",
       "author": {
-        "name": "nextlevelbuilder"
+        "name": "Agus Dwi Rianto (AUDIRA)",
+        "email": "agusdwirianto@gmail.com",
+        "url": "https://audira.my.id"
       },
+      "homepage": "https://audira.my.id",
+      "repository": "https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX",
       "keywords": [
         "ui",
         "ux",

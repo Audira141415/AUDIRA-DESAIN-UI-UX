@@ -4,7 +4,7 @@ description: "Design banners for social media, ads, website heroes, creative ass
 argument-hint: "[platform] [style] [dimensions]"
 license: MIT
 metadata:
-  author: claudekit
+  author: AUDIRA
   version: "1.0.0"
 ---
 

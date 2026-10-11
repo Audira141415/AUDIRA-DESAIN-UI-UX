@@ -4,7 +4,7 @@ description: Token architecture, component specifications, and slide generation.
 argument-hint: "[component or token]"
 license: MIT
 metadata:
-  author: claudekit
+  author: AUDIRA
   version: "1.0.0"
 ---
 

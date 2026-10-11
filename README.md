@@ -19,46 +19,16 @@
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks under the AUDIRA ecosystem.
 
 <p align="center">
-  <a href="https://uupm.cc">
-    <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
+  <a href="https://audira.my.id">
+    <img src="screenshots/website.png" alt="AUDIRA UI UX Pro Max" width="800">
   </a>
 </p>
 
 <p align="center">
-  <b>If you find this useful, consider supporting the project:</b><br><br>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate"></a>
-</p>
-
-<p align="center">
-  <i>Other projects</i><br>
-  <a href="https://nextlevelbuilder.io">NextLevelBuilder.io</a> | <a href="https://goclaw.sh">GoClaw.sh</a> | <a href="https://agentkit.best">AgentKit.best</a> | <a href="https://tose.sh">TOSE.sh</a>
-</p>
-
----
-
-<p align="center">
-  <span>Check Out Our New Skill:</span>
-  <br/>
-  <a href="https://github.com/viettranx/3dviz-pro-max" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.nextlevelbuilder.io/skills/3dviz/wordmark-dark.svg">
-      <img src="https://cdn.nextlevelbuilder.io/skills/3dviz/wordmark.svg" alt="3Dviz Pro Max" height="56">
-    </picture>
-  </a>
-</p>
-
-<p align="center"><b>Turn an idea into a 3D scene worth exploring.</b></p>
-
-<p align="center">
-  <img src="https://cdn.nextlevelbuilder.io/skills/3dviz/harness-village.gif" width="800" alt="Harness Village: a fantasy village with camera navigation and animated creatures">
-</p>
-
-<p align="center">
-  <sub><b>Visual inspiration, not a benchmark.</b> An author-supplied project recorded <i>before</i> this skill existed; its UI contains Vietnamese. Historical footage, not an English demo or a runtime test of the skill — see <a href="https://github.com/viettranx/3dviz-pro-max/blob/main/docs/demos/README.md">media provenance</a>.</sub>
-</p>
-
-<p align="center">
-  🤌 Website: <a href="https://3dviz.dev/" target="_blank">https://3dviz.dev/</a>
+  <b>AUDIRA Ecosystem & Official Links:</b><br><br>
+  <a href="https://audira.my.id">🌐 Website Resmi (audira.my.id)</a> | 
+  <a href="https://wa.me/6282112001600">💬 WhatsApp Hotline (+62 821-1200-1600)</a> | 
+  <a href="mailto:agusdwirianto@gmail.com">📧 Email Resmi</a>
 </p>
 
 ---
@@ -248,8 +218,8 @@ Many users ask about the differences between the open-source and premium version
 Install directly in Claude Code with two commands:
 
 ```
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 ### Using CLI (Recommended)
@@ -492,8 +462,8 @@ If you want to contribute to this project:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
-cd ui-ux-pro-max-skill
+git clone https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX.git
+cd AUDIRA-DESAIN-UI-UX
 
 # 2. Understand the structure
 src/ui-ux-pro-max/           # Source of truth (data, scripts, templates)
@@ -665,8 +635,8 @@ Do not upload the full GitHub repository ZIP. It is a development checkout that 
 For Claude Code, install through the Marketplace:
 
 ```bash
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 Or use the CLI installer:
@@ -711,7 +681,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "SaaS" --domain style --j
 
 ## Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.dera.page/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Audira141415/AUDIRA-DESAIN-UI-UX&type=Date)](https://star-history.dera.page/#Audira141415/AUDIRA-DESAIN-UI-UX&Date)
 
 ---
 
