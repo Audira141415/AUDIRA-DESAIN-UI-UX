@@ -720,8 +720,7 @@ All product names, source code, designs, and associated intellectual property ar
 
 ## License
 
-The source code of this project is licensed under the [MIT License](LICENSE).
-The **AUDIRA** brand name, logos, and official production domain ([https://audira.my.id](https://audira.my.id)) remain exclusive trademarks of Agus Dwi Rianto / Audira Multimedia Digital.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Compatible Agents
 
