@@ -214,8 +214,8 @@ Active 集合包括 43 个通用视觉家族、2 个移动端专用风格、3 �
 通过两条命令直接在 Claude Code 中安装：
 
 ```
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 ### 使用 CLI (推荐)
@@ -444,7 +444,7 @@ uipro init --ai <platform>
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+git clone https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX.git
 cd ui-ux-pro-max-skill
 
 # 2. 理解结构
@@ -591,8 +591,8 @@ rm -rf .agents/skills/ui-ux-pro-max   # Antigravity / Codex
 对于 Claude Code，请通过 Marketplace 安装：
 
 ```bash
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 也可以使用 CLI 安装器：
@@ -637,7 +637,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "SaaS" --domain style --j
 
 ## Star 历史
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.dera.page/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Audira141415/AUDIRA-DESAIN-UI-UX&type=Date)](https://star-history.dera.page/#Audira141415/AUDIRA-DESAIN-UI-UX&Date)
 
 ## 许可证
 

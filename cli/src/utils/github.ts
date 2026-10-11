@@ -1,8 +1,8 @@
 import { writeFile } from 'node:fs/promises';
 import type { Release } from '../types/index.js';
 
-const REPO_OWNER = 'nextlevelbuilder';
-const REPO_NAME = 'ui-ux-pro-max-skill';
+const REPO_OWNER = 'Audira141415';
+const REPO_NAME = 'AUDIRA-DESAIN-UI-UX';
 const API_BASE = 'https://api.github.com';
 const USER_AGENT = 'ui-ux-pro-max-cli';
 

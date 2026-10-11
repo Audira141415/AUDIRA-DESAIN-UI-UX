@@ -200,8 +200,8 @@ v2.0의 핵심 기능은 **디자인 시스템 생성기**입니다. AI 기반 �
 Claude Code에서 다음 두 명령어로 바로 설치할 수 있습니다.
 
 ```
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 ### CLI 사용(권장)
@@ -429,7 +429,7 @@ uipro init --ai <platform>
 
 ```bash
 # 1. 저장소 복제
-git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+git clone https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX.git
 cd ui-ux-pro-max-skill
 
 # 2. 구조 이해
@@ -565,8 +565,8 @@ GitHub 저장소 전체 ZIP을 업로드하지 마세요. 이 ZIP은 소스 코�
 Claude Code에서는 Marketplace를 통해 설치하세요.
 
 ```bash
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 또는 CLI 설치 도구를 사용하세요.
@@ -611,7 +611,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "SaaS" --domain style --j
 
 ## 스타 기록
 
-[![스타 기록 차트](https://star-history.dera.page/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.dera.page/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![스타 기록 차트](https://star-history.dera.page/svg?repos=Audira141415/AUDIRA-DESAIN-UI-UX&type=Date)](https://star-history.dera.page/#Audira141415/AUDIRA-DESAIN-UI-UX&Date)
 
 ## 라이선스
 

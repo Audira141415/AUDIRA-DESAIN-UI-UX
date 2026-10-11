@@ -65,7 +65,7 @@ ui-ux-pro-max-skill/
 ## Ways to Contribute
 
 ### 🐛 Bug Fixes
-Check the [Issues tab](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/issues) for bugs labeled `bug`. Comment on the issue before starting so we don't duplicate work.
+Check the [Issues tab](https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX/issues) for bugs labeled `bug`. Comment on the issue before starting so we don't duplicate work.
 
 ### ✨ New UI Styles
 Add a new entry to `src/ui-ux-pro-max/data/styles.csv`. Each row needs:
@@ -155,7 +155,7 @@ chore: update ui-ux-pro-max-cli to v2.6.0
 
 ## Reporting Bugs
 
-Please [open an issue](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/issues/new) and include:
+Please [open an issue](https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX/issues/new) and include:
 
 - Your OS and terminal
 - The AI assistant you're using (Claude Code, Cursor, etc.)
@@ -174,6 +174,6 @@ Harassment, spam, or low-effort contributions will be closed without review.
 
 ## Questions?
 
-Open a [Discussion](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/discussions) or check the [README](README.md) first.
+Open a [Discussion](https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX/discussions) or check the [README](README.md) first.
 
 Happy contributing! 🚀

@@ -212,8 +212,8 @@ Nhiều người dùng hỏi về sự khác biệt giữa phiên bản mã ngu�
 Cài đặt trực tiếp trong Claude Code bằng hai lệnh:
 
 ```
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 ### Sử dụng CLI (khuyến nghị)
@@ -442,7 +442,7 @@ Nếu bạn muốn đóng góp cho dự án:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+git clone https://github.com/Audira141415/AUDIRA-DESAIN-UI-UX.git
 cd ui-ux-pro-max-skill
 
 # 2. Tìm hiểu cấu trúc
@@ -577,8 +577,8 @@ Không tải lên tệp ZIP chứa toàn bộ repository GitHub. Đây là bản
 Với Claude Code, hãy cài đặt qua Marketplace:
 
 ```bash
-/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill
-/plugin install ui-ux-pro-max@ui-ux-pro-max-skill
+/plugin marketplace add Audira141415/AUDIRA-DESAIN-UI-UX
+/plugin install audira-ui-ux@Audira141415/AUDIRA-DESAIN-UI-UX
 ```
 
 Hoặc dùng trình cài đặt CLI:
@@ -623,7 +623,7 @@ python3 .claude/skills/ui-ux-pro-max/scripts/search.py "SaaS" --domain style --j
 
 ## Lịch sử lượt sao
 
-[![Biểu đồ lịch sử lượt sao](https://star-history.dera.page/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.dera.page/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
+[![Biểu đồ lịch sử lượt sao](https://star-history.dera.page/svg?repos=Audira141415/AUDIRA-DESAIN-UI-UX&type=Date)](https://star-history.dera.page/#Audira141415/AUDIRA-DESAIN-UI-UX&Date)
 
 ## Giấy phép
 
